@@ -1,5 +1,5 @@
 # Hi, I'm McArthur Diaz 🏄‍♂️🌎✈️
-## Front-End Developer | World Explorer
+Front-End Developer | World Explorer
 
 I'm a front-end developer specializing in creating immersive web experiences that bring ideas to life. With a foundation in JavaScript, React, and Vue.js, I craft dynamic interfaces that are not only functional but also visually appealing. 
 
